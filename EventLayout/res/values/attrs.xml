@@ -1,0 +1,6 @@
+<resources>
+    <declare-styleable name="EventView">
+        <attr name="number" format="integer" />
+        <attr name="type" format="integer" />
+    </declare-styleable>
+</resources>
